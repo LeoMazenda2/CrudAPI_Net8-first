@@ -1,0 +1,6 @@
+@MyFirstCrudAPI_Net8_HostAddress = http://localhost:5037
+
+GET {{MyFirstCrudAPI_Net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

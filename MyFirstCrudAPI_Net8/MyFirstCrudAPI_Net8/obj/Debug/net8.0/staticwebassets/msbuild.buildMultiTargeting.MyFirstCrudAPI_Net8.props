@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MyFirstCrudAPI_Net8.props" />
+</Project>
