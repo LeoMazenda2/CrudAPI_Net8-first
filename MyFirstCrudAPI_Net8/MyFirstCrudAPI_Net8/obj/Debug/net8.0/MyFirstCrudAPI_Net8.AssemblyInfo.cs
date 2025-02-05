@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstCrudAPI_Net8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0949142dafa4270f06797d2b4e62da326f1ee1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstCrudAPI_Net8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstCrudAPI_Net8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

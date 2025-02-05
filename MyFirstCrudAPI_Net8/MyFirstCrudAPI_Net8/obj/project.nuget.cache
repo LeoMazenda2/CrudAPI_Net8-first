@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGtik/FYbZc=",
+  "dgSpecHash": "XCzQwSIaNeI=",
   "success": true,
-  "projectFilePath": "/Users/mojavestudio/RiderProjects/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj",
+  "projectFilePath": "/Users/mojavestudio/RiderProjects/CrudAPI_Net8-first/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj",
   "expectedPackageFiles": [
     "/Users/mojavestudio/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mojavestudio/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

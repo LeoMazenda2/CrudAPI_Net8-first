@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mojavestudio/RiderProjects/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj": {}
+    "/Users/mojavestudio/RiderProjects/CrudAPI_Net8-first/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj": {}
   },
   "projects": {
-    "/Users/mojavestudio/RiderProjects/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj": {
+    "/Users/mojavestudio/RiderProjects/CrudAPI_Net8-first/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mojavestudio/RiderProjects/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj",
+        "projectUniqueName": "/Users/mojavestudio/RiderProjects/CrudAPI_Net8-first/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj",
         "projectName": "MyFirstCrudAPI_Net8",
-        "projectPath": "/Users/mojavestudio/RiderProjects/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj",
+        "projectPath": "/Users/mojavestudio/RiderProjects/CrudAPI_Net8-first/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8.csproj",
         "packagesPath": "/Users/mojavestudio/.nuget/packages/",
-        "outputPath": "/Users/mojavestudio/RiderProjects/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/obj/",
+        "outputPath": "/Users/mojavestudio/RiderProjects/CrudAPI_Net8-first/MyFirstCrudAPI_Net8/MyFirstCrudAPI_Net8/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
